@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Changelist non controllate predefinite",
+			"files": [
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Door.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Input/Actions/Test.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Path.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Interactable.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_GasBox.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Phon.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Ice.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/White.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/TEX_grilleSecheCheveux.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Black.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Boolean_3.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Cylinder_12.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Cylinder_12_1.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Boolean_4.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Boolean_1.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/rectangle_arrondi.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/grilleSecheCheveux.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Phon/Cylinder_12_2.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Ice/TEX_Material001.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Ice/Material_001.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Ice/IceCluster.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Ice_2.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Materials/Phon_Effect.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Materials/Phone_Particle.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_SnowBall.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Camera.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Camera.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cube_023.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cube_024.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cube_025.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cube_026.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cube_027.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cube_028.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cylinder_007.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Camera/Security_camera__Cylinder_008.uasset",
+				"C:/Users/lucal/OneDrive/Desktop/Spy/Content/VRTemplate/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
